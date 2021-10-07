@@ -1,0 +1,29 @@
+:root {
+    --clone-primary: #007998; 
+    --clone-secondary: #F4B29A;
+}
+
+header {
+    background-color: var(--clone-primary);
+}
+
+.bgc-primary {
+    background-color: var(--clone-primary);
+}
+
+.bgc-secondary {
+    background-color: var(--clone-secondary);
+
+}
+
+.font-secondary {
+    color: rgb(219, 219, 219);
+}
+
+.bg-nature {
+    min-height: 45vh;
+    background-image: url(https://s3-alpha-sig.figma.com/img/1b1f/b4c3/9d9abb0c33c9a9a3b47de164aa65cb55?Expires=1634515200&Signature=WtHv2rjmdWEG5x5segMAk2jmTz28XEJOq-c9Egf34BObPba-o5VmDIWmumGUAToBkdd6EV4Jhor3~kRu23NzTLgH1MiRxy9Pyjnolqd~ncBk5LKC8GtSTib8WIGREvmOT14V~72RTnN0i-IpQpDWWQYJz2fw8kGa6QQicIcHi9ppOi9qGsk3IxOjQuZAmy8lM0LZ03tthFF3FGSup6yX0R1cnGoAthRkR0nIfv~LuGmSDMaD-sGseo3hxbgq0uM7Z2cLT7o3fEHqa-aw~kxzZeWhcOCUnOAoqfPlbjGG5kRDnA6ZB1FVJbnipd7kENGfKhrCryaJlbJXgJJtfGSy7w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+    background-size:cover;
+    background-position: center;
+
+}
