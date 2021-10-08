@@ -16,6 +16,10 @@ header {
 
 }
 
+.font-main{
+    font-family: 'Ubuntu', sans-serif;
+}
+
 .font-secondary {
     color: rgb(219, 219, 219);
 }
